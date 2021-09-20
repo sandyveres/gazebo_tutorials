@@ -17,7 +17,7 @@ An overview of the relationship between simulation, hardware, controllers and tr
 
 # Prerequisites
 
-This tutorial builds off of many of the concepts in the previous tutorials.
+This tutorial builds on many of the concepts in the previous tutorials.
 We will again be using the RRBot that was setup in the
 [Using URDF in Gazebo](http://gazebosim.org/tutorials/?tut=ros_urdf) tutorial, as an example for the plugins covered here.
 
